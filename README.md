@@ -1,9 +1,9 @@
 # Chess
 
-Chess bot by the one and only Like Miang and Zevin Khou. Created with the power of friendship.
+Chess interface, base game rules, mechanics and interface coded from scratch by Kevin Zhou and Mike Liang. Created with the power of friendship.
 
 Dependencies
 * Colin Hon
 
-Install:
+Instructions:
 * No sleep allowed
